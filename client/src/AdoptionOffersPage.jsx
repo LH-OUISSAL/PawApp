@@ -55,7 +55,7 @@ const [searchTerm, setSearchTerm] = useState(initialSearch);
       name: 'Nala',
       breed: 'British Shorthair',
       city: 'Agadir',
-      description: 'Calme, affectueuse, idéale pour les appartements.',
+      description: 'Calme,  affectueuse, idéale pour les appartements.',
       image: '/2.webp'
     }
   ];
