@@ -1,0 +1,13 @@
+
+@import "tailwindcss";
+
+
+
+/* Add this block below Tailwind imports */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+
+
